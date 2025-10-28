@@ -1,0 +1,6 @@
+    PID COMMAND         %CPU %MEM
+     83 systemd-journal  1.1  0.3
+      1 systemd          0.1  0.2
+      2 init-systemd(Ub  0.0  0.0
+      8 init             0.0  0.0
+    117 systemd-udevd    0.0  0.1

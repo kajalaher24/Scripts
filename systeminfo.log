@@ -1,0 +1,1686 @@
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  384G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  384G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       372Mi       2.8Gi       3.0Mi       622Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+kajal
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       374Mi       2.8Gi       3.0Mi       622Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+kajal
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       382Mi       2.8Gi       3.0Mi       627Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+kajal
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       386Mi       2.8Gi       3.0Mi       624Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+kajal
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       383Mi       2.8Gi       3.0Mi       629Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+kajal
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       380Mi       2.8Gi       3.0Mi       626Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+top - 16:13:02 up 43 min,  1 user,  load average: 1.66, 1.40, 1.37
+Tasks:  35 total,   1 running,  30 sleeping,   4 stopped,   0 zombie
+%Cpu(s):  0.7 us,  0.0 sy,  0.0 ni, 87.0 id, 12.3 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3870.2 total,   2862.5 free,    381.5 used,    626.2 buff/cache
+MiB Swap:   1024.0 total,   1024.0 free,      0.0 used.   3347.2 avail Mem 
+kajal
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       378Mi       2.8Gi       3.0Mi       630Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+top - 16:14:01 up 44 min,  1 user,  load average: 1.31, 1.35, 1.36
+Tasks:  36 total,   1 running,  31 sleeping,   4 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni, 87.3 id, 12.7 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3870.2 total,   2860.9 free,    378.6 used,    630.7 buff/cache
+MiB Swap:   1024.0 total,   1024.0 free,      0.0 used.   3350.0 avail Mem 
+kajal
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       382Mi       2.8Gi       3.0Mi       627Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+top - 16:15:01 up 45 min,  1 user,  load average: 1.26, 1.33, 1.35
+Tasks:  35 total,   1 running,  30 sleeping,   4 stopped,   0 zombie
+%Cpu(s):  0.7 us,  0.0 sy,  0.0 ni, 99.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3870.2 total,   2860.1 free,    382.4 used,    627.7 buff/cache
+MiB Swap:   1024.0 total,   1024.0 free,      0.0 used.   3346.2 avail Mem 
+kajal
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       378Mi       2.8Gi       3.0Mi       632Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+top - 16:16:01 up 46 min,  1 user,  load average: 1.05, 1.26, 1.33
+Tasks:  35 total,   1 running,  30 sleeping,   4 stopped,   0 zombie
+%Cpu(s):  0.8 us,  0.0 sy,  0.0 ni, 87.1 id, 12.1 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3870.2 total,   2858.6 free,    378.9 used,    632.7 buff/cache
+MiB Swap:   1024.0 total,   1024.0 free,      0.0 used.   3349.6 avail Mem 
+kajal
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       378Mi       2.8Gi       3.0Mi       633Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+top - 16:17:01 up 47 min,  1 user,  load average: 0.95, 1.22, 1.31
+Tasks:  36 total,   1 running,  31 sleeping,   4 stopped,   0 zombie
+%Cpu(s):  0.8 us,  0.8 sy,  0.0 ni, 79.7 id, 18.8 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3870.2 total,   2858.3 free,    378.4 used,    633.5 buff/cache
+MiB Swap:   1024.0 total,   1024.0 free,      0.0 used.   3350.2 avail Mem 
+current user
+kajal
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       378Mi       2.8Gi       3.0Mi       637Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+top - 16:18:01 up 48 min,  1 user,  load average: 0.75, 1.13, 1.27
+Tasks:  39 total,   1 running,  31 sleeping,   7 stopped,   0 zombie
+%Cpu(s):  0.0 us,  1.5 sy,  0.0 ni, 85.9 id, 12.6 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3870.2 total,   2855.3 free,    384.4 used,    630.5 buff/cache
+MiB Swap:   1024.0 total,   1024.0 free,      0.0 used.   3344.2 avail Mem 
+current user
+kajal
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       387Mi       2.8Gi       3.0Mi       635Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+top - 16:19:01 up 49 min,  1 user,  load average: 0.67, 1.04, 1.23
+Tasks:  40 total,   1 running,  31 sleeping,   8 stopped,   0 zombie
+%Cpu(s):  0.0 us,  3.8 sy,  0.0 ni, 85.0 id, 11.3 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3870.2 total,   2846.7 free,    384.9 used,    638.7 buff/cache
+MiB Swap:   1024.0 total,   1024.0 free,      0.0 used.   3343.7 avail Mem 
+current user
+kajal
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       396Mi       2.8Gi       3.0Mi       632Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+top - 16:20:01 up 50 min,  1 user,  load average: 0.80, 1.00, 1.20
+Tasks:  40 total,   1 running,  31 sleeping,   8 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.8 sy,  0.0 ni, 95.5 id,  3.8 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3870.2 total,   2840.5 free,    397.6 used,    632.1 buff/cache
+MiB Swap:   1024.0 total,   1024.0 free,      0.0 used.   3331.0 avail Mem 
+current user
+kajal
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       389Mi       2.8Gi       3.0Mi       636Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+current user
+kajal
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       383Mi       2.8Gi       3.0Mi       635Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+current user
+kajal
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       378Mi       2.8Gi       3.0Mi       643Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+-
+41
+0.0
+Mem
+Swap:
+current user
+kajal
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       384Mi       2.8Gi       3.0Mi       644Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+-
+42
+0.0
+Mem
+Swap:
+current user
+kajal
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       372Mi       2.8Gi       3.0Mi       645Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       376Mi       2.8Gi       3.0Mi       664Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       381Mi       2.8Gi       3.0Mi       665Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       386Mi       2.8Gi       3.0Mi       666Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       379Mi       2.8Gi       3.0Mi       667Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       372Mi       2.8Gi       3.0Mi       667Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       373Mi       2.8Gi       3.0Mi       668Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  540K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       397Mi       2.6Gi       3.0Mi       796Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       390Mi       2.6Gi       3.0Mi       816Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       388Mi       2.6Gi       3.0Mi       817Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       379Mi       2.6Gi       3.0Mi       818Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       378Mi       2.6Gi       3.0Mi       819Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       384Mi       2.6Gi       3.0Mi       820Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       390Mi       2.6Gi       3.0Mi       821Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       385Mi       2.6Gi       3.0Mi       821Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       387Mi       2.6Gi       3.0Mi       822Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   82G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   82G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       392Mi       2.6Gi       3.0Mi       823Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+Disk usage of all file systems are printed below
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       388Mi       3.2Gi       3.0Mi       225Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+Cpu usage
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       381Mi       3.1Gi       3.0Mi       276Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+1
+current user
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       385Mi       3.1Gi       3.0Mi       323Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+1
+current user
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       380Mi       3.0Gi       3.0Mi       370Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+0
+current user
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       385Mi       3.0Gi       3.0Mi       417Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+0
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       388Mi       2.9Gi       3.0Mi       463Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+0
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       390Mi       2.9Gi       3.0Mi       510Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+0
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       391Mi       2.9Gi       3.0Mi       557Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+0
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       396Mi       2.8Gi       3.0Mi       592Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       390Mi       2.8Gi       3.0Mi       593Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       392Mi       2.8Gi       3.0Mi       594Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       390Mi       2.8Gi       3.0Mi       595Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+Normal cpu usage that is 1.4
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       379Mi       2.8Gi       3.0Mi       595Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+Normal cpu usage that is 0.7
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       382Mi       3.2Gi       3.0Mi       213Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+Normal cpu usage that is 1.9
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       378Mi       3.2Gi       3.0Mi       262Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+Normal cpu usage that is 0.8
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       385Mi       3.1Gi       3.0Mi       309Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+Normal cpu usage that is 0.7
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       381Mi       3.1Gi       3.0Mi       362Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+Normal cpu usage that is 0.8
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       381Mi       3.0Gi       3.0Mi       408Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+Normal cpu usage that is 0.7
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   80K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       382Mi       3.0Gi       3.0Mi       455Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+Normal cpu usage that is 1.4
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   84K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       389Mi       2.9Gi       3.0Mi       502Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+Normal cpu usage that is 0.7
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   84K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       384Mi       2.9Gi       3.0Mi       548Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+Normal cpu usage that is 0.7
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   84K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       390Mi       2.8Gi       3.0Mi       592Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+Normal cpu usage that is 0
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   84K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       386Mi       2.8Gi       3.0Mi       593Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+Normal cpu usage that is 0.7
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   84K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       386Mi       2.8Gi       3.0Mi       593Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+Normal cpu usage that is 0
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   84K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       387Mi       2.8Gi       3.0Mi       594Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+Normal cpu usage that is 1.4
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   84K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       378Mi       2.8Gi       3.0Mi       595Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+Normal cpu usage that is 0.7
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   84K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       387Mi       2.8Gi       3.0Mi       596Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+Normal cpu usage that is 1.4
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  385G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   84K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  385G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       379Mi       2.8Gi       3.0Mi       600Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+Normal cpu usage that is 2.2
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  384G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   84K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  384G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       379Mi       2.8Gi       3.0Mi       597Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+Normal cpu usage that is 1.5
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  384G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   84K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  384G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       380Mi       2.8Gi       3.0Mi       602Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+Normal cpu usage that is 0.7
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  384G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   84K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  384G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       382Mi       2.8Gi       3.0Mi       603Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+Normal cpu usage that is 0.7
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  384G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   84K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  384G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       388Mi       2.8Gi       3.0Mi       604Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+Normal cpu usage that is 0.7
+==================current user=========
+kajal
+================Disk usage of all file systems are printed below==============
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         467G   83G  384G  18% /usr/lib/wsl/drivers
+/dev/sdd        251G  8.9G  230G   4% /
+none            1.9G   84K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  536K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             467G   83G  384G  18% /mnt/c
+D:\             164G  408M  164G   1% /mnt/d
+E:\             300G  8.7G  292G   3% /mnt/e
+tmpfs           388M  8.0K  388M   1% /run/user/1000
+===============Memory usage==================
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       383Mi       2.8Gi       3.0Mi       615Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+================Cpu usage==================
+Normal cpu usage that is 1.4
+==================current user=========
+kajal
